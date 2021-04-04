@@ -13,6 +13,8 @@ public class MyGitClass {
 		System.out.println("12.satir local code");
 
 		System.out.println("12.satir uzak sunucu");
+		System.out.println("16.satir uzak sunucu");
+		
 
 		System.out.println("17.satir uzak sunucu");
 		
