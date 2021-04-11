@@ -3,7 +3,7 @@ package mygitpackage;
 public class MyGitClass {
 
 	public static void main(String[] args) {
-		
+		// path'de projenin icine gir /mygitproject'te kal
 		System.out.println("Version 1");
 		System.out.println("My second commit");
 		System.out.println("The last version");
@@ -17,6 +17,8 @@ public class MyGitClass {
 		
 
 		System.out.println("17.satir uzak sunucu");
+		System.out.println("20.satir yeni kod");
+		
 		
 	}
 
